@@ -53,4 +53,7 @@
 
 ### Диаграмма контейнеров
 
-[Диаграмма контейнеров](mvp-containers.drawio)
+[Диаграмма контейнеров](mvp-containers.png)
+
+
+[Диаграмма контейнеров(raw)](mvp-containers.drawio)
